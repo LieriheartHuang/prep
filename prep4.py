@@ -5,5 +5,5 @@ d=1/16.5
 print(" ")
 print(" ")
 print("Inches: "+str(b))
-print("Meter: "+str(round(c,3))
-print("Rods: "+str(d))
+print("Meter: "+str(round(c,3))+" "）
+print("Rods: "+str(round（d，1）))
