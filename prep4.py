@@ -6,5 +6,5 @@ print(" ")
 print(" ")
 print('Inches: '+str(b))
 print('Meter: '+str(round(c,3))+' '）
-print('Rods: '+str(round(d，1)))
-      print('True Shooting Percentage: ' + str(round(tsp, 2)) + '%'
+print('Rods: '+str(round(d,1)))
+      
