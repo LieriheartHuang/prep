@@ -1,4 +1,4 @@
-a=input("Number of the feet:\n ")
+a=input("Number of the feet: \n ")
 print(" ")
 print("Inches: "+a*12)
 print("Meter: "+a*0.3048)
