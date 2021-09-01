@@ -6,5 +6,5 @@ print(" ")
 print(" ")
 print('Inches: '+str(b))
 print('Meter: '+str(c))
-print('Rods: '+str(d,1))
+print('Rods: '+str(d))
       
