@@ -1,4 +1,4 @@
-a=int(input("Number of the feet: "))
+a=int(input("Number of feet: "))
 b=a*12
 c=a*0.3048
 d=a/16.5
